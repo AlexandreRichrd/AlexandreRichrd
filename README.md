@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/AlexandreRichrd/AlexandreRichrd/blob/main/img/PPNeon.png" />
+  <img src="https://github.com/AlexandreRichrd/AlexandreRichrd/blob/main/img/PPNeon.png" width="100px"/>
   
 </p>
 <!--
