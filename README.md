@@ -1,6 +1,6 @@
 <p>
-  <img src="https://github.com/AlexandreRichrd/AlexandreRichrd/blob/main/img/PPNeon.png" width="200px" style="border: 50%"/>
-  
+  <img src="https://github.com/AlexandreRichrd/AlexandreRichrd/blob/main/img/PPNeon.png" width="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreRichrd&show_icons=true&theme=material-palenight" />
 </p>
 <!--
 **AlexandreRichrd/AlexandreRichrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
