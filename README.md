@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRichrd=TeX&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRichrd&layout=compact" />
 </p>
   <!--
 **AlexandreRichrd/AlexandreRichrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
