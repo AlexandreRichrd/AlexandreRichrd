@@ -5,7 +5,7 @@
 
 <p>
   Hello and wecome on my profile 😁 !<br>
-  My name is <b>Alexandre Richard</b> and I am a freelance front-end web developer located in <b>France, close to Angers</b>  
+  My name is <b>Alexandre Richard</b> and I am a front-end web developer located in <b>France, in Angers</b>  
 </p>
 
  <!--
