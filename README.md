@@ -1,12 +1,12 @@
 <h1>Hello !👋 I am Alexandre RICHARD </h1>
-
+<br><br>
 <h2>Who am I ? 🤔</h2>
 
 <ul>
   <li>👨‍💻 I am a web front-end developper, for the moment...</li>
   <li>🗺️ I am located <b>in France, in Angers</b></li>
   <li>🧠 I am currently improving my skills with <b>React</b> and <b>Symfony</b></li>
-</ul><br><br>
+</ul><br>
 
 <h2>My skills 🎓</h2>
 
