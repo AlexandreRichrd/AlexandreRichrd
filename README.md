@@ -1,3 +1,5 @@
+#👋 Hello ! I am Alexandre RICHARD
+
 <p align="center">
   <img src="https://github.com/AlexandreRichrd/AlexandreRichrd/blob/main/img/PPNeon.png" width="192px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=AlexandreRichrd&show_icons=true&theme=material-palenight" />
