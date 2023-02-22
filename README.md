@@ -5,7 +5,7 @@
 <ul>
   <li>👨‍💻 I am a front-end developper, for the moment...</li>
   <li>🗺️ I am located <b>in France, in Angers</b></li>
-  <li>🧠 I am currently improving my skills with <b><div style="color: #61DBFB">React</div></b></li>
+  <li>🧠 I am currently improving my skills with <b>React</b> and <b>Symfony</b></li>
 </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRichrd&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
