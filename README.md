@@ -3,10 +3,15 @@
 <h3>Who am I ? 🤔</h3>
 
 <ul>
-  <li>👨‍💻 I am a front-end developper, for the moment...</li>
+  <li>👨‍💻 I am a web front-end developper, for the moment...</li>
   <li>🗺️ I am located <b>in France, in Angers</b></li>
   <li>🧠 I am currently improving my skills with <b>React</b> and <b>Symfony</b></li>
 </ul>
+
+<h3>My skills 🎓</h3>
+
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+
 
 
 
