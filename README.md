@@ -1,10 +1,13 @@
 <h1>Hello!👋 I am Alexandre RICHARD </h1>
 
-<h2>Who am I ? 🤔</h2>
+<h4>Who am I ? 🤔</h4>
 
 <ul>
-  <li>Currently located <b>in France, in Angers</b></li>
+  <li>👨‍💻 I am a front-end developper, for the moment...</li>
+  <li>🗺️ I am currently located <b>in France, in Angers</b></li>
 </ul>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRichrd)](https://github.com/anuraghazra/github-readme-stats)
   
   
 <p align="center">
