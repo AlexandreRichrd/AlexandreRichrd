@@ -72,6 +72,8 @@
   <a href="https://www.linkedin.com/in/alexandre-richard-5035a3194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo"/></a>
   <a href="https://www.tiktok.com/@escanor_sw"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Titok logo"/></a>
   <a href="https://dev.to/alexandrerichrd"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Titok logo"/></a>
+  <a href="[https://dev.to/alexandrerichrd](https://open.spotify.com/user/4m3m55aqax57uj833so9m4x7k?si=6863fa544aaf43fb)"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify logo"/></a>
+  
 </p>
 
  <!--
