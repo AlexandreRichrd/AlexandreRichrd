@@ -7,7 +7,7 @@
   <li>🗺️ I am currently located <b>in France, in Angers</b></li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRichrd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRichrd&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
   
   
 <p align="center">
