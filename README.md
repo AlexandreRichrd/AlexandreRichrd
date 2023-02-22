@@ -1,16 +1,16 @@
 <h1>Hello !👋 I am Alexandre RICHARD </h1>
 
-<h3>Who am I ? 🤔</h3>
+<h2>Who am I ? 🤔</h2>
 
 <ul>
   <li>👨‍💻 I am a web front-end developper, for the moment...</li>
   <li>🗺️ I am located <b>in France, in Angers</b></li>
   <li>🧠 I am currently improving my skills with <b>React</b> and <b>Symfony</b></li>
-</ul>
+</ul><br><br>
 
-<h3>My skills 🎓</h3>
+<h2>My skills 🎓</h2>
 
-<br>
+
 <h4>Javascript / Typescript ❤️</h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodeJs logo"/>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"/>
 </p><br><br><br>
 
-<h3>Informations about my GitHub account</h3>
+<h2>Informations about my GitHub account</h2>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRichrd&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
@@ -65,7 +65,7 @@
 
 <br><br><br>
 
-<h3>Socials 💬</h3>
+<h2>Socials 💬</h2>
 <br>
 <p>
   <a href="https://instagram.com/alexandre_richrd?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo"/></a>
