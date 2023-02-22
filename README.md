@@ -53,20 +53,16 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Json logo"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"/>
-</p>
+</p><br><br><br>
+
+<h3>Informations about my GitHub account</h3>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRichrd&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-<p align="center">
-  <img src="https://github.com/AlexandreRichrd/AlexandreRichrd/blob/main/img/PPNeon.png" width="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreRichrd&show_icons=true&theme=material-palenight" />
-</p>
+<br>
 
-<p>
-  Hello and wecome on my profile 😁 !<br>
-  My name is <b>Alexandre Richard</b> and I am a front-end web developer located in <b>France, in Angers</b>  
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AlexandreRichrd&show_icons=true&theme=material-palenight" />
+
 
  <!--
 <p>
