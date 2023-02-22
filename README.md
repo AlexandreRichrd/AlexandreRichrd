@@ -1,4 +1,4 @@
-#👋 Hello ! I am Alexandre RICHARD
+<h1>👋 Hello ! I am Alexandre RICHARD </h1>
 
 <p align="center">
   <img src="https://github.com/AlexandreRichrd/AlexandreRichrd/blob/main/img/PPNeon.png" width="192px"/>
