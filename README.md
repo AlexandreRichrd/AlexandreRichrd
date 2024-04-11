@@ -5,7 +5,7 @@
 <ul>
   <li>👨‍💻 I am a web front-end developper, for the moment...</li>
   <li>🗺️ I am located <b>in France, in Angers</b></li>
-  <li>🧠 I am currently improving my skills with <b>VueJs</b> and <b>NestJs</b></li>
+  <li>🧠 I am currently improving my skills with <b>VueJs</b> and <b>AdonisJs</b></li>
 </ul><br>
 
 <h2>My skills 🎓</h2>
