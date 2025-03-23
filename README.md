@@ -3,9 +3,9 @@
 <h2>Who am I ? 🤔</h2>
 
 <ul>
-  <li>👨‍💻 I am a web front-end developper, for the moment...</li>
+  <li>👨‍💻 I am a web full-stack developper, for the moment...</li>
   <li>🗺️ I am located <b>in France, in Angers</b></li>
-  <li>🧠 I am currently improving my skills with <b>VueJs</b> and <b>AdonisJs</b></li>
+  <li>🧠 I am currently improving my skills with <b>AngularJS</b> and <b>NestJs</b></li>
 </ul><br>
 
 <h2>My skills 🎓</h2>
